@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "serverless-dynamodb": "^0.2.49",
+    "serverless-offline": "^13.3.3"
+  }
+}
